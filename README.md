@@ -13,6 +13,7 @@ A full-featured, dynamic web application designed for restaurant management, onl
 * **User Authentication:** Customer registration, secure login, and profile management.
 * **Contact & About Pages:** Informative pages for customer support, location details, and restaurant background.
 * ![Restaurant Website Preview](resturent1.png)
+* ![Restaurant Website Preview](resturent2.png)
 
 ### ⚙️ Backend (Admin & Management Panel)
 * **Admin Dashboard:** Centralized control panel to monitor overall restaurant operations and database metrics.
@@ -20,6 +21,9 @@ A full-featured, dynamic web application designed for restaurant management, onl
 * **Order Tracking:** View incoming customer orders, manage order statuses, and handle processing efficiently.
 * **Database Migrations & Seeders:** Structured database handling using Laravel migrations and Eloquent ORM.
 * **Secure Authentication & Middleware:** Role-based access control protecting administrative routes from unauthorized users.
+* ![Restaurant Website backend](resturent3.png)
+* ![Restaurant Website backend](resturent4.png)
+  
 
 ---
 
