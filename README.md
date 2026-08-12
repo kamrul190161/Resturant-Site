@@ -12,7 +12,7 @@ A full-featured, dynamic web application designed for restaurant management, onl
 * **Responsive Design:** Fully mobile-friendly and modern user interface styled with clean layouts and Blade templates.
 * **User Authentication:** Customer registration, secure login, and profile management.
 * **Contact & About Pages:** Informative pages for customer support, location details, and restaurant background.
-* ![Restaurant Website Preview](resturent1.png)
+* ![Restaurant Website Preview](download/resturent1.png)
 
 ### ⚙️ Backend (Admin & Management Panel)
 * **Admin Dashboard:** Centralized control panel to monitor overall restaurant operations and database metrics.
